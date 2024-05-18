@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CSE 165 Team Gogohand
+title: CSE 165 Team GogoHand
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  CSE 165 final project Team Gogohand's blog. This blog will be updated with
+  CSE 165 final project Team GogoHand's blog. This blog will be updated with
   our team project ideas and progress in detail.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cse165-gogohand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
