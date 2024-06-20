@@ -15,6 +15,14 @@ User can see surrounding via passthrough screen and they can do what need to do.
 
 <iframe width="740" height="480" src="https://www.youtube.com/embed/RXyivbpIYBw?si=VGgZLfY9tpMGQUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Presentation
+
+![](/assets/fp1.jpg)
+
+![](/assets/fp2.jpg)
+
+![](/assets/fp3.jpg)
+
 #### Awards
 
 Our project received two awards in the final voting: "Most Intuitive Controls" and "Best Aesthetics."
