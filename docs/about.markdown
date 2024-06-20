@@ -8,6 +8,8 @@ permalink: /about/
 
 UCSD CSE 165 final project team GogoHand.
 
+**Team Members**: Kevin Kim, Jose Arreguin, Vincent Zhang, Yong Gyun Kim
+
 Resources:
 
 - [XRLab @CSE UCSD](https://sites.google.com/ucsd.edu/xrlab/home)
